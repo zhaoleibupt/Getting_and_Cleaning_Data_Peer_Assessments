@@ -1,4 +1,5 @@
-# this is my assessments of Getting and cleaning  data
+#my assessments of Getting and cleaning  data
+
 
 ##1.background
 One of the most exciting areas in all of data science right now is wearable computing，Companies like Fitbit, Nike, and Jawbone Up 
